@@ -83,13 +83,13 @@ def lalala(message):
                                           "Мед огляд _____________08.07.2023\n"
                                           "Високовольтні випроб \n")
     elif (message.text) == 'РП1':
-        bot.send_message(message.chat.id, "вул. Турівська, 4"
+        bot.send_message(message.chat.id, "вул. Турівська, 4")
 						 
     elif (message.text) == 'РП2':
-        bot.send_message(message.chat.id, "бульв. Дружби народів, 4/6"
+        bot.send_message(message.chat.id, "бульв. Дружби народів, 4/6")
 						 
     elif (message.text) == 'РП3':
-        bot.send_message(message.chat.id, "шосе Набережне, 3"                    
+        bot.send_message(message.chat.id, "шосе Набережне, 3")                   
                                           
                                           
 
