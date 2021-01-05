@@ -93,7 +93,7 @@ def rp_poisk(message):
     elif (message.text) == "Рп4":bot.send_message(message.chat.id, "вул Софійська   21     ")
     elif (message.text) == "Рп5":bot.send_message(message.chat.id, "вул Грушевського Михайла   9      ")
     elif (message.text) == "Рп6":bot.send_message(message.chat.id, "вул Нестайка Всеволода          ")
-    elif (message.text) == "Рп7":bot.send_message(message.chat.id, "вул Наумовича Володимира   169    ")
+    elif (message.text) == "Рп7":bot.send_message(message.chat.id, "вулп Наумовирача Володимира   169    "
     elif (message.text) == "Рп8":bot.send_message(message.chat.id, "вул Антоновича   52     ")
     elif (message.text) == "Рп9":bot.send_message(message.chat.id, "вул Жилянська   111    ")
     elif (message.text) == "Рп10":bot.send_message(message.chat.id, "вул Чорновола В'ячеслава   37     ")
